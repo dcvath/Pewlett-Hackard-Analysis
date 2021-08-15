@@ -1,9 +1,9 @@
-# Silver Tsunami Analysis for Pewlett-Hackard
+# Pewlett-Hackard Analysis
 
 ## Overview of Analysis
 
 ### Purpose
-Explain the purpose of this analysis
+The purposes of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. Determining this information will aid Pewlett-Hackard leadership in deciding who they want to offer retirement packages to as well as succession planning through their mentorship program. There are a large number of employees approaching retirement age in what they are referring to as the "sliver tsunami."
 
 ## Results
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
