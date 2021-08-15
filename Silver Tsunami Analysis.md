@@ -1,23 +1,27 @@
-# Kickstarting with Excel
+# Silver Tsunami Analysis for Pewlett-Hackard
 
-## Overview of Project
+## Overview of Analysis
 
 ### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
+Explain the purpose of this analysis
 
 ## Results
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- ...
 
-- What can you conclude about the Outcomes based on Goals?
+- ...
 
-- What are some limitations of this dataset?
+- ...
 
-- What are some other possible tables and/or graphs that we could create?
+- ...
+
+## Summary 
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+
+
+
