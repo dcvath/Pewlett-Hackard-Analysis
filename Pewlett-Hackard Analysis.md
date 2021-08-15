@@ -3,12 +3,12 @@
 ## Overview of Analysis
 
 ### Purpose
-The purposes of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. Determining this information will aid Pewlett-Hackard leadership in deciding who they want to offer retirement packages to as well as succession planning through their mentorship program. There are a large number of employees approaching retirement age in what they are referring to as the "sliver tsunami."
+The purposes of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. Determining this information will aid Pewlett-Hackard leadership in deciding who they want to offer retirement packages to as well as succession planning through their mentorship program. There are a large number of employees approaching retirement age in what they are referring to as the "silver tsunami."
 
 ## Results
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-- ...
+- Of the 300,024 employees at Pewlett-Hackard, 
 
 - ...
 
